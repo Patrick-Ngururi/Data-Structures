@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580065142 source:i:\comp science\programming\list creation\main.c
+	<stdio.h>
+	<stdlib.h>
+
